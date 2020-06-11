@@ -17,7 +17,7 @@ spoiler angle, drivetrain, and ground clearance were collected for each vehicle.
 MechaCar suspension coil test results from multiple production lots. In this dataset, 
 the weight capacity of multiple suspension coils were tested to determine if the manufacturing process is consistent across lots.
 
-### Obejectives
+### Objectives
 - Design and interpret a multiple linear regression analysis to identify variables of interest.
 - Calculate summary statistics for quantitative variables.
 - Perform a t-test in R and provide interpretation of results.
